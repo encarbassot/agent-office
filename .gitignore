@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+# your own setup: never in git
+devices.json
+team.json
+.office-key

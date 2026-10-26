@@ -1,0 +1,11 @@
+{
+  "name": "agent-office",
+  "version": "0.1.0",
+  "description": "A pixel-art office where your Claude Code agents walk in, sit at their desks and type while they work.",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs"
+  }
+}

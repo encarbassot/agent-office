@@ -1,0 +1,7 @@
+{
+  "devices": [
+    { "name": "router", "host": "192.168.1.1", "role": "home router" },
+    { "name": "nas", "host": "192.168.1.20", "role": "backups" },
+    { "name": "server", "host": "192.168.1.30", "role": "where the apps run" }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "my-reviewer": {
+    "name": "Ada",
+    "emoji": "🦉",
+    "room": "office",
+    "accent": "#7048e8",
+    "look": { "skin": "#f1c7a1", "hair": "bun", "hairColor": "#212529", "shirt": "#7048e8", "pants": "#343a40", "extras": ["glasses"] },
+    "phrases": ["Let me check that."]
+  }
+}
